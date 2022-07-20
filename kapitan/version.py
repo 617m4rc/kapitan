@@ -7,10 +7,10 @@
 
 """Project description variables."""
 
-PROJECT_NAME = "kapitan"
-VERSION = "0.30.0"
+PROJECT_NAME = "kapitan-sag"
+VERSION = "0.30.1"
 DESCRIPTION = "Generic templated configuration management for Kubernetes, Terraform and other things"
-AUTHOR = "Ricardo Amaro"
-AUTHOR_EMAIL = "ramaro@kapicorp.com"
+AUTHOR = "Marc Lehmann"
+AUTHOR_EMAIL = "marc.lehmann@softwareag.com"
 LICENCE = "Apache License 2.0"
 URL = "https://github.com/kapicorp/kapitan"
